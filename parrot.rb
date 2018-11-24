@@ -1,4 +1,7 @@
 def parrot("Squawk!")
+  puts("Squak!")
+  
+  return parrot
   
 end
 
