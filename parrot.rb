@@ -1,5 +1,5 @@
 def parrot("squak")
-  return parrot
+  
 end
 
 parrot()
